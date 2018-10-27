@@ -11,7 +11,7 @@
 ### IDE
 一千个人 一千个IDE。
 
-大佬们 vim，nano什么都有；新人Java 就IDEA；PHP 就 PyCharm；C++ Clion VS都好；然后以及万能的Sublime，随便配插件。IDE能用就好，自己舒服就可以
+大佬们 vim，nano什么都有；新人Java 就IDEA；PHP 就PHPStorm ；Python就PyCharm；C++ Clion VS都好；然后以及万能的Sublime，随便配插件。IDE能用就好，自己舒服就可以
 
 ### 基本一些软件
 
