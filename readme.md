@@ -24,7 +24,7 @@
 ### 各大站
 
  * Stack Overflow，不用解释
- * Github，程序员交友网站（哲学），同类型的国内oschina
+ * Github，程序员交友网站（哲学♂），同类型的国内oschina
  * SegmentFault
  * Quora 日本知乎
  * 牛客，刷题工作必看
@@ -120,7 +120,7 @@
 *  《白帽子讲Web安全》//服务端要了解下的
 *  《深入理解ElasticSearch》//无所谓看不看
 *  《IT运维之道》//服务端要了解下的
-*  《Code Complete》//程序员必看
+*  《Code Complete》//程序员可看
 *  《计算机组成》//工业出版社牛逼，就是看不完！！
 *  各种本身语言文档，库文档，框架文档 
  
